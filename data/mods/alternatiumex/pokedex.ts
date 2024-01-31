@@ -2,7 +2,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 	decidueyehermit: {
 		num: 724,
 		name: "Decidueye-Hermit",
-		types: ["Grass", "Ghost"],
+		types: ["Water", "Ghost"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 78, atk: 107, def: 100, spa: 70, spd: 100, spe: 80},
 		abilities: {0: "Overgrow", 1: "Flower Veil", H: "Soul Reap"},
